@@ -10,7 +10,7 @@ import java.util.List;
 
 public class CsvLoader {
 
-    public List<Produit> loadProduitFromCsv() throws Exception{
+    public static List<Produit> loadProduitFromCsv() throws Exception{
         return new CsvToBeanBuilder<Produit>(
                 new InputStreamReader(new ClassPathResource("produit.csv").getInputStream())
         )
