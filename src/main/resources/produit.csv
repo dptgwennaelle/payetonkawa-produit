@@ -1,0 +1,21 @@
+id,name,price,description,color,stock
+1,Café Arabica,8.99,Café doux et fruité,brun clair,120
+2,Café Robusta,7.49,Café corsé et intense,brun foncé,85
+3,Café Moka,9.25,"Origine Éthiopie, notes chocolatées",brun moyen,60
+4,Café Blue Mountain,19.99,Café rare de Jamaïque,brun clair,30
+5,Café Décaféiné,6.95,"Sans caféine, léger et équilibré",brun,90
+6,Café Péruvien Bio,10.5,Café bio du Pérou,brun foncé,70
+7,Café Colombien,8.75,"Rond et fruité, origine Colombie",brun moyen,95
+8,Café Indonésien,9.8,Corsé avec des notes terreuses,noir,45
+9,Café Brésilien,7.99,Douceur typique du Brésil,brun clair,110
+10,Café de Sumatra,11.2,Intense et épicé,très foncé,40
+11,Café Guatémaltèque,8.4,"Riche et corsé, origine Guatemala",brun foncé,75
+12,Café du Kenya,9.99,"Fruité, acidulé, très aromatique",brun,55
+13,Café Indien,7.65,Notes d'épices douces,brun moyen,80
+14,Café Vietnamien,6.85,"Riche et sucré, idéal pour café glacé",brun foncé,65
+15,Café Yemenite,15.0,"Ancienne variété, goût rare",brun très foncé,25
+16,Café Panama Geisha,22.5,"Très haut de gamme, floral",brun doré,15
+17,Café Laos,9.15,"Café d’altitude, goût doux",brun,35
+18,Café Mexicain,8.55,Notes de noisette et de caramel,brun clair,78
+19,Café Congo,9.0,"Saveur fruitée, léger",brun moyen,50
+20,Café Honduras,8.2,Équilibré et doux,brun clair,88
